@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sudoku Game
 
 A beginner-friendly Sudoku game played in the terminal. The player chooses a difficulty, enters numbers into empty cells, can request limited hints, and wins by completing a valid Sudoku board.
@@ -102,3 +103,6 @@ The tests cover valid moves, row/column/box conflicts, clue protection, valid an
 - Guarantee uniqueness when removing clues
 - Add a timer and a high-score table
 - Add a graphical interface using a separate project layer
+=======
+# Suduko-game
+>>>>>>> 7518fe7ba714b3231762f11c829b20ba509a2168
