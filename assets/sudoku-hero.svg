@@ -1,0 +1,36 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="420" fill="#F7F5F2"/>
+  <rect x="70" y="60" width="320" height="300" rx="22" fill="#FFFFFF" stroke="#D9D0C2" stroke-width="2"/>
+  <g stroke="#2E2A27" stroke-width="3" stroke-linecap="round">
+    <path d="M110 120H350M110 170H350M110 220H350M110 270H350M110 320H350"/>
+    <path d="M160 90V330M210 90V330M260 90V330M310 90V330"/>
+  </g>
+  <g fill="#2E2A27" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700">
+    <text x="132" y="145">5</text>
+    <text x="182" y="145">3</text>
+    <text x="282" y="145">7</text>
+    <text x="132" y="195">6</text>
+    <text x="232" y="195">9</text>
+    <text x="332" y="195">5</text>
+    <text x="182" y="245">8</text>
+    <text x="282" y="245">6</text>
+    <text x="332" y="245">2</text>
+    <text x="132" y="295">4</text>
+    <text x="232" y="295">8</text>
+    <text x="332" y="295">1</text>
+  </g>
+  <g fill="#2E2A27" font-family="Arial, Helvetica, sans-serif">
+    <text x="485" y="95" font-size="22" font-weight="700" letter-spacing="2">SUDOKU</text>
+    <text x="485" y="250" font-size="58" font-weight="700">Game</text>
+    <text x="485" y="290" font-size="22" fill="#5A524D">Terminal Puzzle Challenge</text>
+  </g>
+  <g>
+    <circle cx="980" cy="145" r="58" fill="#F2EBDD"/>
+    <path d="M980 106L990.5 134.5L1019 135.5L996 154.5L1005 182L980 166L955 182L964 154.5L941 135.5L969.5 134.5L980 106Z" fill="#C7A36A"/>
+  </g>
+  <g fill="#4E473F" font-family="Arial, Helvetica, sans-serif" font-size="18">
+    <text x="878" y="255">Strategy</text>
+    <text x="875" y="282">Logic</text>
+    <text x="972" y="282">Focus</text>
+  </g>
+</svg>
